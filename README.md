@@ -2,6 +2,8 @@
 
 A running log of my open-source pull requests — across data infrastructure, developer tooling, observability, and self-hosted platforms. Primarily Java backend (Spring / Kafka / AWS), with some Kotlin/Android and Angular.
 
+Every entry links to the actual pull request, and the list grows as I open new ones.
+
 _Last updated: 2026-06-13_
 
 ## Summary
