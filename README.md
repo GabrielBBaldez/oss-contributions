@@ -15,9 +15,9 @@ _Last updated: 2026-06-13_
 | Status | Count |
 |--------|-------|
 | ✅ Merged | 12 |
-| 🟡 Open (in review) | 9 |
+| 🟡 Open (in review) | 10 |
 
-Projects: **Apache SeaTunnel**, **Apache Iceberg**, **Crowdin**, **OpenTelemetry (CNCF)**, **Vault-Web**, **Hermes**.
+Projects: **Apache SeaTunnel**, **Apache Iceberg**, **Crowdin**, **OpenTelemetry (CNCF)**, **Vault-Web**, **Hermes**, **Tencent BlueKing**.
 
 ---
 
@@ -90,3 +90,10 @@ Web workspace for the Hermes agent.
 | PR | Description | Status |
 |----|-------------|--------|
 | [#617](https://github.com/outsourc-e/hermes-workspace/pull/617) | Read `HERMES_API_TOKEN` from an env file fallback | 🟡 Open |
+
+## <img src="https://github.com/TencentBlueKing.png?size=48" width="24" align="top"/> Tencent BlueKing — `TencentBlueKing/bk-ci`
+CI/CD platform by Tencent (Kotlin microservices).
+
+| PR | Description | Status |
+|----|-------------|--------|
+| [#13119](https://github.com/TencentBlueKing/bk-ci/pull/13119) | apigw endpoint to query project members by condition | 🟡 Open |
