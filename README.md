@@ -10,9 +10,8 @@ _Last updated: 2026-06-13_
 |--------|-------|
 | ✅ Merged | 12 |
 | 🟡 Open (in review) | 9 |
-| ⚪ Closed | 1 |
 
-Projects: **Apache SeaTunnel**, **Apache Iceberg**, **Crowdin**, **OpenTelemetry (CNCF)**, **Vault-Web**, **Hermes**, **Keycloak**.
+Projects: **Apache SeaTunnel**, **Apache Iceberg**, **Crowdin**, **OpenTelemetry (CNCF)**, **Vault-Web**, **Hermes**.
 
 ---
 
@@ -85,9 +84,3 @@ Web workspace for the Hermes agent.
 | PR | Description | Status |
 |----|-------------|--------|
 | [#617](https://github.com/outsourc-e/hermes-workspace/pull/617) | Read `HERMES_API_TOKEN` from an env file fallback | 🟡 Open |
-
-## <img src="https://github.com/keycloak.png?size=48" width="24" align="top"/> Keycloak — `keycloak/keycloak`
-
-| PR | Description | Status |
-|----|-------------|--------|
-| [#49836](https://github.com/keycloak/keycloak/pull/49836) | (closed — duplicate of an existing PR) | ⚪ Closed |
