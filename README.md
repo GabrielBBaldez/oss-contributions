@@ -16,7 +16,7 @@ Projects: **Apache SeaTunnel**, **Apache Iceberg**, **Crowdin**, **OpenTelemetry
 
 ---
 
-## Apache SeaTunnel — `apache/seatunnel`
+## <img src="https://github.com/apache.png?size=48" width="24" align="top"/> Apache SeaTunnel — `apache/seatunnel`
 Distributed data integration platform (Apache TLP).
 
 | PR | Description | Status |
@@ -26,14 +26,14 @@ Distributed data integration platform (Apache TLP).
 | [#11028](https://github.com/apache/seatunnel/pull/11028) | Shopify source connector fixes | 🟡 Open — approved |
 | [#11057](https://github.com/apache/seatunnel/pull/11057) | MySQL-CDC: snapshot-only startup mode | 🟡 Open |
 
-## Apache Iceberg — `apache/iceberg`
+## <img src="https://github.com/apache.png?size=48" width="24" align="top"/> Apache Iceberg — `apache/iceberg`
 Leading open table format for data lakehouses (Apache TLP).
 
 | PR | Description | Status |
 |----|-------------|--------|
 | [#16794](https://github.com/apache/iceberg/pull/16794) | AWS: use assumed-role credentials for REST SigV4 signing (fixes credential divergence with S3 Tables / Glue REST catalogs) | 🟡 Open |
 
-## Crowdin
+## <img src="https://github.com/crowdin.png?size=48" width="24" align="top"/> Crowdin
 Localization platform — Java SDK and CLI.
 
 **`crowdin/crowdin-api-client-java`** — 7 PRs, all merged in **release [1.33.0](https://github.com/crowdin/crowdin-api-client-java/releases/tag/1.33.0)** (the entire release changelog is credited to me):
@@ -55,14 +55,14 @@ Localization platform — Java SDK and CLI.
 |----|-------------|--------|
 | [#1032](https://github.com/crowdin/crowdin-cli/pull/1032) | Respect ignore patterns with language placeholders on `upload translations` | 🟡 Open |
 
-## OpenTelemetry — `open-telemetry/opentelemetry-android` (CNCF)
+## <img src="https://github.com/open-telemetry.png?size=48" width="24" align="top"/> OpenTelemetry — `open-telemetry/opentelemetry-android` (CNCF)
 Android observability instrumentation.
 
 | PR | Description | Status |
 |----|-------------|--------|
 | [#1811](https://github.com/open-telemetry/opentelemetry-android/pull/1811) | Power Save Mode instrumentation (new opt-in module, Kotlin) | 🟡 Open |
 
-## Vault-Web — self-hosted personal cloud (Java microservices + Angular)
+## <img src="https://github.com/Vault-Web.png?size=48" width="24" align="top"/> Vault-Web — self-hosted personal cloud (Java microservices + Angular)
 
 **`Vault-Web/cloud-page`** (file manager backend):
 
@@ -79,14 +79,14 @@ Android observability instrumentation.
 |----|-------------|--------|
 | [#231](https://github.com/Vault-Web/vault-web/pull/231) | Show folder sizes in the cloud view (maintainer-invited) | ✅ Merged |
 
-## Hermes — `outsourc-e/hermes-workspace`
+## <img src="https://github.com/outsourc-e.png?size=48" width="24" align="top"/> Hermes — `outsourc-e/hermes-workspace`
 Web workspace for the Hermes agent.
 
 | PR | Description | Status |
 |----|-------------|--------|
 | [#617](https://github.com/outsourc-e/hermes-workspace/pull/617) | Read `HERMES_API_TOKEN` from an env file fallback | 🟡 Open |
 
-## Keycloak — `keycloak/keycloak`
+## <img src="https://github.com/keycloak.png?size=48" width="24" align="top"/> Keycloak — `keycloak/keycloak`
 
 | PR | Description | Status |
 |----|-------------|--------|
