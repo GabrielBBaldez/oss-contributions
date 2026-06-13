@@ -1,5 +1,9 @@
 # Open Source Contributions
 
+![Open source](https://img.shields.io/badge/open_source-contributions-2ea44f?style=flat-square)
+![Java](https://img.shields.io/badge/Java-Spring_Kafka_AWS-orange?style=flat-square)
+![Ecosystems](https://img.shields.io/badge/ecosystems-Apache_·_CNCF_·_Crowdin-blue?style=flat-square)
+
 A running log of my open-source pull requests — across data infrastructure, developer tooling, observability, and self-hosted platforms. Primarily Java backend (Spring / Kafka / AWS), with some Kotlin/Android and Angular.
 
 Every entry links to the actual pull request, and the list grows as I open new ones.
