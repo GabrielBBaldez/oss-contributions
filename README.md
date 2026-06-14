@@ -15,7 +15,7 @@ _Last updated: 2026-06-14_
 | Status | Count |
 |--------|-------|
 | ✅ Merged | 13 |
-| 🟡 Open (in review) | 11 |
+| 🟡 Open (in review) | 12 |
 
 Projects: **Apache SeaTunnel**, **Apache Iceberg**, **Crowdin**, **OpenTelemetry (CNCF)**, **Vault-Web**, **Hermes**, **Tencent BlueKing**.
 
@@ -85,6 +85,7 @@ Android observability instrumentation.
 |----|-------------|--------|
 | [#231](https://github.com/Vault-Web/vault-web/pull/231) | Show folder sizes in the cloud view (maintainer-invited) | ✅ Merged |
 | [#238](https://github.com/Vault-Web/vault-web/pull/238) | Trash UI for the cloud view, consuming the soft-delete endpoints (maintainer-invited) | 🟡 Open |
+| [#239](https://github.com/Vault-Web/vault-web/pull/239) | Redirect to login on expired session (auth / session fix) | 🟡 Open |
 
 ## <img src="https://github.com/outsourc-e.png?size=48" width="24" align="top"/> Hermes — `outsourc-e/hermes-workspace`
 Web workspace for the Hermes agent.
