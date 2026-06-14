@@ -8,13 +8,13 @@ A running log of my open-source pull requests — across data infrastructure, de
 
 Every entry links to the actual pull request, and the list grows as I open new ones.
 
-_Last updated: 2026-06-13_
+_Last updated: 2026-06-14_
 
 ## Summary
 
 | Status | Count |
 |--------|-------|
-| ✅ Merged | 12 |
+| ✅ Merged | 13 |
 | 🟡 Open (in review) | 11 |
 
 Projects: **Apache SeaTunnel**, **Apache Iceberg**, **Crowdin**, **OpenTelemetry (CNCF)**, **Vault-Web**, **Hermes**, **Tencent BlueKing**.
@@ -76,7 +76,8 @@ Android observability instrumentation.
 | [#75](https://github.com/Vault-Web/cloud-page/pull/75) | Include folder sizes in directory listing | ✅ Merged |
 | [#76](https://github.com/Vault-Web/cloud-page/pull/76) | Javadocs for service classes | ✅ Merged |
 | [#78](https://github.com/Vault-Web/cloud-page/pull/78) | Fix path traversal on file upload (security) | ✅ Merged |
-| [#79](https://github.com/Vault-Web/cloud-page/pull/79) | Per-user trash (soft delete) with scheduled cleanup | 🟡 Open |
+| [#79](https://github.com/Vault-Web/cloud-page/pull/79) | Per-user trash (soft delete) with scheduled cleanup | ✅ Merged |
+| [#81](https://github.com/Vault-Web/cloud-page/pull/81) | Configurable rate limiting (per-user / per-IP) for file operations | 🟡 Open |
 
 **`Vault-Web/vault-web`** (Angular frontend):
 
