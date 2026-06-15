@@ -15,9 +15,9 @@ _Last updated: 2026-06-15_
 | Status | Count |
 |--------|-------|
 | ✅ Merged | 16 |
-| 🟡 Open (in review) | 11 |
+| 🟡 Open (in review) | 12 |
 
-Projects: **Apache SeaTunnel**, **Apache Iceberg**, **Crowdin**, **OpenTelemetry (CNCF)**, **Vault-Web**, **Hermes**.
+Projects: **Apache SeaTunnel**, **Apache Iceberg**, **Crowdin**, **OpenTelemetry (CNCF)**, **WSO2 Identity Server**, **Vault-Web**, **Hermes**.
 
 ---
 
@@ -96,3 +96,10 @@ Web workspace for the Hermes agent.
 | PR | Description | Status |
 |----|-------------|--------|
 | [#617](https://github.com/outsourc-e/hermes-workspace/pull/617) | Read `HERMES_API_TOKEN` from an env file fallback | 🟡 Open |
+
+## <img src="https://github.com/wso2.png?size=48" width="24" align="top"/> WSO2 Identity Server — `wso2-extensions/identity-inbound-auth-oauth`
+Open-source IAM / identity server (OAuth2 & OIDC components).
+
+| PR | Description | Status |
+|----|-------------|--------|
+| [#3256](https://github.com/wso2-extensions/identity-inbound-auth-oauth/pull/3256) | Reject `/oauth2/userinfo` requests carrying multiple `Authorization` headers (RFC 9110) | 🟡 Open |
