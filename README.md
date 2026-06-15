@@ -15,7 +15,7 @@ _Last updated: 2026-06-15_
 | Status | Count |
 |--------|-------|
 | ✅ Merged | 16 |
-| 🟡 Open (in review) | 10 |
+| 🟡 Open (in review) | 11 |
 
 Projects: **Apache SeaTunnel**, **Apache Iceberg**, **Crowdin**, **OpenTelemetry (CNCF)**, **Vault-Web**, **Hermes**.
 
@@ -59,6 +59,7 @@ Localization platform — Java SDK and CLI.
 | PR | Description | Status |
 |----|-------------|--------|
 | [#1032](https://github.com/crowdin/crowdin-cli/pull/1032) | Respect ignore patterns with language placeholders on `upload translations` | ✅ Merged |
+| [#1033](https://github.com/crowdin/crowdin-cli/pull/1033) | Clear message instead of a stack trace on unsupported Java versions | 🟡 Open |
 
 ## <img src="https://github.com/open-telemetry.png?size=48" width="24" align="top"/> OpenTelemetry — `open-telemetry/opentelemetry-android` (CNCF)
 Android observability instrumentation.
