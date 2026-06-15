@@ -8,16 +8,16 @@ A running log of my open-source pull requests — across data infrastructure, de
 
 Every entry links to the actual pull request, and the list grows as I open new ones.
 
-_Last updated: 2026-06-14_
+_Last updated: 2026-06-15_
 
 ## Summary
 
 | Status | Count |
 |--------|-------|
-| ✅ Merged | 13 |
-| 🟡 Open (in review) | 12 |
+| ✅ Merged | 16 |
+| 🟡 Open (in review) | 10 |
 
-Projects: **Apache SeaTunnel**, **Apache Iceberg**, **Crowdin**, **OpenTelemetry (CNCF)**, **Vault-Web**, **Hermes**, **Tencent BlueKing**.
+Projects: **Apache SeaTunnel**, **Apache Iceberg**, **Crowdin**, **OpenTelemetry (CNCF)**, **Vault-Web**, **Hermes**.
 
 ---
 
@@ -58,7 +58,7 @@ Localization platform — Java SDK and CLI.
 
 | PR | Description | Status |
 |----|-------------|--------|
-| [#1032](https://github.com/crowdin/crowdin-cli/pull/1032) | Respect ignore patterns with language placeholders on `upload translations` | 🟡 Open |
+| [#1032](https://github.com/crowdin/crowdin-cli/pull/1032) | Respect ignore patterns with language placeholders on `upload translations` | ✅ Merged |
 
 ## <img src="https://github.com/open-telemetry.png?size=48" width="24" align="top"/> OpenTelemetry — `open-telemetry/opentelemetry-android` (CNCF)
 Android observability instrumentation.
@@ -78,14 +78,16 @@ Android observability instrumentation.
 | [#78](https://github.com/Vault-Web/cloud-page/pull/78) | Fix path traversal on file upload (security) | ✅ Merged |
 | [#79](https://github.com/Vault-Web/cloud-page/pull/79) | Per-user trash (soft delete) with scheduled cleanup | ✅ Merged |
 | [#81](https://github.com/Vault-Web/cloud-page/pull/81) | Configurable rate limiting (per-user / per-IP) for file operations | 🟡 Open |
+| [#82](https://github.com/Vault-Web/cloud-page/pull/82) | Sort folder content by size and last-modified (not only name) | 🟡 Open |
 
 **`Vault-Web/vault-web`** (Angular frontend):
 
 | PR | Description | Status |
 |----|-------------|--------|
 | [#231](https://github.com/Vault-Web/vault-web/pull/231) | Show folder sizes in the cloud view (maintainer-invited) | ✅ Merged |
-| [#238](https://github.com/Vault-Web/vault-web/pull/238) | Trash UI for the cloud view, consuming the soft-delete endpoints (maintainer-invited) | 🟡 Open |
-| [#239](https://github.com/Vault-Web/vault-web/pull/239) | Redirect to login on expired session (auth / session fix) | 🟡 Open |
+| [#238](https://github.com/Vault-Web/vault-web/pull/238) | Trash UI for the cloud view, consuming the soft-delete endpoints (maintainer-invited) | ✅ Merged |
+| [#239](https://github.com/Vault-Web/vault-web/pull/239) | Redirect to login on expired session (auth / session fix) | ✅ Merged |
+| [#241](https://github.com/Vault-Web/vault-web/pull/241) | Sorting controls for the cloud page (Closes #213) | 🟡 Open |
 
 ## <img src="https://github.com/outsourc-e.png?size=48" width="24" align="top"/> Hermes — `outsourc-e/hermes-workspace`
 Web workspace for the Hermes agent.
@@ -93,10 +95,3 @@ Web workspace for the Hermes agent.
 | PR | Description | Status |
 |----|-------------|--------|
 | [#617](https://github.com/outsourc-e/hermes-workspace/pull/617) | Read `HERMES_API_TOKEN` from an env file fallback | 🟡 Open |
-
-## <img src="https://github.com/TencentBlueKing.png?size=48" width="24" align="top"/> Tencent BlueKing — `TencentBlueKing/bk-ci`
-CI/CD platform by Tencent (Kotlin microservices).
-
-| PR | Description | Status |
-|----|-------------|--------|
-| [#13119](https://github.com/TencentBlueKing/bk-ci/pull/13119) | apigw endpoint to query project members by condition | 🟡 Open |
