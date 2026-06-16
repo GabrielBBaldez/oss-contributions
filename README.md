@@ -15,9 +15,9 @@ _Last updated: 2026-06-16_
 | Status | Count |
 |--------|-------|
 | ✅ Merged | 19 |
-| 🟡 Open (in review) | 9 |
+| 🟡 Open (in review) | 10 |
 
-Projects: **Apache SeaTunnel**, **Apache Iceberg**, **Crowdin**, **OpenTelemetry (CNCF)**, **WSO2 Identity Server**, **Vault-Web**, **Hermes**.
+Projects: **Apache SeaTunnel**, **Apache Iceberg**, **Crowdin**, **Meilisearch**, **OpenTelemetry (CNCF)**, **WSO2 Identity Server**, **Vault-Web**, **Hermes**.
 
 ---
 
@@ -103,3 +103,10 @@ Open-source IAM / identity server (OAuth2 & OIDC components).
 | PR | Description | Status |
 |----|-------------|--------|
 | [#3256](https://github.com/wso2-extensions/identity-inbound-auth-oauth/pull/3256) | Reject `/oauth2/userinfo` requests carrying multiple `Authorization` headers (RFC 9110) | 🟡 Open |
+
+## <img src="https://github.com/meilisearch.png?size=48" width="24" align="top"/> Meilisearch — `meilisearch/meilisearch-java`
+Official Java SDK for the Meilisearch search engine.
+
+| PR | Description | Status |
+|----|-------------|--------|
+| [#971](https://github.com/meilisearch/meilisearch-java/pull/971) | Personalized search support (`personalize` parameter, Meilisearch 1.47.0) | 🟡 Open |
