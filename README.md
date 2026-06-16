@@ -8,14 +8,14 @@ A running log of my open-source pull requests — across data infrastructure, de
 
 Every entry links to the actual pull request, and the list grows as I open new ones.
 
-_Last updated: 2026-06-15_
+_Last updated: 2026-06-16_
 
 ## Summary
 
 | Status | Count |
 |--------|-------|
-| ✅ Merged | 16 |
-| 🟡 Open (in review) | 12 |
+| ✅ Merged | 19 |
+| 🟡 Open (in review) | 9 |
 
 Projects: **Apache SeaTunnel**, **Apache Iceberg**, **Crowdin**, **OpenTelemetry (CNCF)**, **WSO2 Identity Server**, **Vault-Web**, **Hermes**.
 
@@ -66,7 +66,7 @@ Android observability instrumentation.
 
 | PR | Description | Status |
 |----|-------------|--------|
-| [#1811](https://github.com/open-telemetry/opentelemetry-android/pull/1811) | Power Save Mode instrumentation (new opt-in module, Kotlin) | 🟡 Open |
+| [#1811](https://github.com/open-telemetry/opentelemetry-android/pull/1811) | Power Save Mode instrumentation (new opt-in module, Kotlin) | 🟡 Open — approved |
 
 ## <img src="https://github.com/Vault-Web.png?size=48" width="24" align="top"/> Vault-Web — self-hosted personal cloud (Java microservices + Angular)
 
@@ -78,8 +78,8 @@ Android observability instrumentation.
 | [#76](https://github.com/Vault-Web/cloud-page/pull/76) | Javadocs for service classes | ✅ Merged |
 | [#78](https://github.com/Vault-Web/cloud-page/pull/78) | Fix path traversal on file upload (security) | ✅ Merged |
 | [#79](https://github.com/Vault-Web/cloud-page/pull/79) | Per-user trash (soft delete) with scheduled cleanup | ✅ Merged |
-| [#81](https://github.com/Vault-Web/cloud-page/pull/81) | Configurable rate limiting (per-user / per-IP) for file operations | 🟡 Open |
-| [#82](https://github.com/Vault-Web/cloud-page/pull/82) | Sort folder content by size and last-modified (not only name) | 🟡 Open |
+| [#81](https://github.com/Vault-Web/cloud-page/pull/81) | Configurable rate limiting (per-user / per-IP) for file operations | ✅ Merged |
+| [#82](https://github.com/Vault-Web/cloud-page/pull/82) | Sort folder content by size and last-modified (not only name) | ✅ Merged |
 
 **`Vault-Web/vault-web`** (Angular frontend):
 
@@ -88,7 +88,7 @@ Android observability instrumentation.
 | [#231](https://github.com/Vault-Web/vault-web/pull/231) | Show folder sizes in the cloud view (maintainer-invited) | ✅ Merged |
 | [#238](https://github.com/Vault-Web/vault-web/pull/238) | Trash UI for the cloud view, consuming the soft-delete endpoints (maintainer-invited) | ✅ Merged |
 | [#239](https://github.com/Vault-Web/vault-web/pull/239) | Redirect to login on expired session (auth / session fix) | ✅ Merged |
-| [#241](https://github.com/Vault-Web/vault-web/pull/241) | Sorting controls for the cloud page (Closes #213) | 🟡 Open |
+| [#241](https://github.com/Vault-Web/vault-web/pull/241) | Sorting controls for the cloud page (Closes #213) | ✅ Merged |
 
 ## <img src="https://github.com/outsourc-e.png?size=48" width="24" align="top"/> Hermes — `outsourc-e/hermes-workspace`
 Web workspace for the Hermes agent.
