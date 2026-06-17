@@ -15,9 +15,9 @@ _Last updated: 2026-06-16_
 | Status | Count |
 |--------|-------|
 | ✅ Merged | 19 |
-| 🟡 Open (in review) | 11 |
+| 🟡 Open (in review) | 12 |
 
-Projects: **Apache SeaTunnel**, **Apache Iceberg**, **Crowdin**, **Meilisearch**, **OpenTelemetry (CNCF)**, **WSO2 Identity Server**, **OWASP Dependency-Track**, **Vault-Web**, **Hermes**.
+Projects: **Apache SeaTunnel**, **Apache Iceberg**, **Crowdin**, **Meilisearch**, **OpenTelemetry (CNCF)**, **WSO2 Identity Server**, **OWASP Dependency-Track**, **DSpace**, **Vault-Web**, **Hermes**.
 
 ---
 
@@ -117,3 +117,10 @@ Component analysis / SCA platform (OWASP flagship project).
 | PR | Description | Status |
 |----|-------------|--------|
 | [#6426](https://github.com/DependencyTrack/dependency-track/pull/6426) | Surface the server release version in the OpenAPI spec (`x-server-version` + title) | 🟡 Open |
+
+## <img src="https://github.com/DSpace.png?size=48" width="24" align="top"/> DSpace — `DSpace/DSpace`
+Open-source repository platform for digital archives, libraries and institutional content (Java).
+
+| PR | Description | Status |
+|----|-------------|--------|
+| [#12677](https://github.com/DSpace/DSpace/pull/12677) | Use `SecureRandom` for key generation, replacing predictable MD5-based keys (security) | 🟡 Open |
