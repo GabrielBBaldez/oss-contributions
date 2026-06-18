@@ -15,7 +15,7 @@ _Last updated: 2026-06-16_
 | Status | Count |
 |--------|-------|
 | ✅ Merged | 19 |
-| 🟡 Open (in review) | 12 |
+| 🟡 Open (in review) | 13 |
 
 Projects: **Apache SeaTunnel**, **Apache Iceberg**, **Crowdin**, **Meilisearch**, **OpenTelemetry (CNCF)**, **WSO2 Identity Server**, **OWASP Dependency-Track**, **DSpace**, **Vault-Web**, **Hermes**.
 
@@ -110,6 +110,7 @@ Official Java SDK for the Meilisearch search engine.
 | PR | Description | Status |
 |----|-------------|--------|
 | [#971](https://github.com/meilisearch/meilisearch-java/pull/971) | Personalized search support (`personalize` parameter, Meilisearch 1.47.0) | 🟡 Open |
+| [#972](https://github.com/meilisearch/meilisearch-java/pull/972) | `distinct` support in federated search (Meilisearch 1.40.0) | 🟡 Open |
 
 ## <img src="https://github.com/DependencyTrack.png?size=48" width="24" align="top"/> OWASP Dependency-Track — `DependencyTrack/dependency-track`
 Component analysis / SCA platform (OWASP flagship project).
