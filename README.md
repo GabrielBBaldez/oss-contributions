@@ -15,9 +15,9 @@ _Last updated: 2026-06-16_
 | Status | Count |
 |--------|-------|
 | ✅ Merged | 21 |
-| 🟡 Open (in review) | 12 |
+| 🟡 Open (in review) | 13 |
 
-Projects: **Apache SeaTunnel**, **Apache Iceberg**, **Delta Lake**, **Crowdin**, **Meilisearch**, **OpenTelemetry (CNCF)**, **WSO2 Identity Server**, **OWASP Dependency-Track**, **DSpace**, **Vault-Web**, **Hermes**.
+Projects: **Apache SeaTunnel**, **Apache Iceberg**, **Delta Lake**, **Crowdin**, **Meilisearch**, **OpenTelemetry (CNCF)**, **WSO2 Identity Server**, **OWASP Dependency-Track**, **DSpace**, **Vault-Web**, **Hermes**, **Selenide**.
 
 ---
 
@@ -132,3 +132,10 @@ Open-source repository platform for digital archives, libraries and institutiona
 | PR | Description | Status |
 |----|-------------|--------|
 | [#12677](https://github.com/DSpace/DSpace/pull/12677) | Use `SecureRandom` for key generation, replacing predictable MD5-based keys (security) | 🟡 Open |
+
+## <img src="https://github.com/selenide.png?size=48" width="24" align="top"/> Selenide — `selenide/selenide`
+Concise UI testing framework for Java (wraps Selenium WebDriver).
+
+| PR | Description | Status |
+|----|-------------|--------|
+| [#3350](https://github.com/selenide/selenide/pull/3350) | Appium: `element()` / `elements()` aliases so Kotlin page objects avoid backtick-escaping `$` | 🟡 Open |
