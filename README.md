@@ -15,7 +15,7 @@ _Last updated: 2026-06-16_
 | Status | Count |
 |--------|-------|
 | ✅ Merged | 21 |
-| 🟡 Open (in review) | 13 |
+| 🟡 Open (in review) | 14 |
 
 Projects: **Apache SeaTunnel**, **Apache Iceberg**, **Delta Lake**, **Crowdin**, **Meilisearch**, **OpenTelemetry (CNCF)**, **WSO2 Identity Server**, **OWASP Dependency-Track**, **DSpace**, **Vault-Web**, **Hermes**, **Selenide**.
 
@@ -96,6 +96,12 @@ Android observability instrumentation.
 | [#238](https://github.com/Vault-Web/vault-web/pull/238) | Trash UI for the cloud view, consuming the soft-delete endpoints (maintainer-invited) | ✅ Merged |
 | [#239](https://github.com/Vault-Web/vault-web/pull/239) | Redirect to login on expired session (auth / session fix) | ✅ Merged |
 | [#241](https://github.com/Vault-Web/vault-web/pull/241) | Sorting controls for the cloud page (Closes #213) | ✅ Merged |
+
+**`Vault-Web/auth-api-gateway`** (reactive Spring Cloud Gateway):
+
+| PR | Description | Status |
+|----|-------------|--------|
+| [#39](https://github.com/Vault-Web/auth-api-gateway/pull/39) | Integration tests for the auth endpoints (+ fix validation errors returning 500 instead of 400) | 🟡 Open |
 
 ## <img src="https://github.com/outsourc-e.png?size=48" width="24" align="top"/> Hermes — `outsourc-e/hermes-workspace`
 Web workspace for the Hermes agent.
