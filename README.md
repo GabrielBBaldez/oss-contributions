@@ -15,9 +15,9 @@ _Last updated: 2026-06-16_
 | Status | Count |
 |--------|-------|
 | ✅ Merged | 19 |
-| 🟡 Open (in review) | 13 |
+| 🟡 Open (in review) | 14 |
 
-Projects: **Apache SeaTunnel**, **Apache Iceberg**, **Crowdin**, **Meilisearch**, **OpenTelemetry (CNCF)**, **WSO2 Identity Server**, **OWASP Dependency-Track**, **DSpace**, **Vault-Web**, **Hermes**.
+Projects: **Apache SeaTunnel**, **Apache Iceberg**, **Delta Lake**, **Crowdin**, **Meilisearch**, **OpenTelemetry (CNCF)**, **WSO2 Identity Server**, **OWASP Dependency-Track**, **DSpace**, **Vault-Web**, **Hermes**.
 
 ---
 
@@ -37,6 +37,13 @@ Leading open table format for data lakehouses (Apache TLP).
 | PR | Description | Status |
 |----|-------------|--------|
 | [#16794](https://github.com/apache/iceberg/pull/16794) | AWS: use assumed-role credentials for REST SigV4 signing (fixes credential divergence with S3 Tables / Glue REST catalogs) | 🟡 Open |
+
+## <img src="https://github.com/delta-io.png?size=48" width="24" align="top"/> Delta Lake — `delta-io/delta`
+Open table format and lakehouse storage layer (Linux Foundation project). Contributions to Delta Kernel (Java).
+
+| PR | Description | Status |
+|----|-------------|--------|
+| [#7055](https://github.com/delta-io/delta/pull/7055) | Kernel: typed exceptions for out-of-range snapshot version loads (so connectors catch the specific case instead of string-matching the message) | 🟡 Open |
 
 ## <img src="https://github.com/crowdin.png?size=48" width="24" align="top"/> Crowdin
 Localization platform — Java SDK and CLI.
