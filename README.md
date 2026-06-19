@@ -14,8 +14,8 @@ _Last updated: 2026-06-16_
 
 | Status | Count |
 |--------|-------|
-| ✅ Merged | 19 |
-| 🟡 Open (in review) | 14 |
+| ✅ Merged | 21 |
+| 🟡 Open (in review) | 12 |
 
 Projects: **Apache SeaTunnel**, **Apache Iceberg**, **Delta Lake**, **Crowdin**, **Meilisearch**, **OpenTelemetry (CNCF)**, **WSO2 Identity Server**, **OWASP Dependency-Track**, **DSpace**, **Vault-Web**, **Hermes**.
 
@@ -73,7 +73,7 @@ Android observability instrumentation.
 
 | PR | Description | Status |
 |----|-------------|--------|
-| [#1811](https://github.com/open-telemetry/opentelemetry-android/pull/1811) | Power Save Mode instrumentation (new opt-in module, Kotlin) | 🟡 Open — approved |
+| [#1811](https://github.com/open-telemetry/opentelemetry-android/pull/1811) | Power Save Mode instrumentation (new opt-in module, Kotlin) | ✅ Merged |
 
 ## <img src="https://github.com/Vault-Web.png?size=48" width="24" align="top"/> Vault-Web — self-hosted personal cloud (Java microservices + Angular)
 
@@ -124,7 +124,7 @@ Component analysis / SCA platform (OWASP flagship project).
 
 | PR | Description | Status |
 |----|-------------|--------|
-| [#6426](https://github.com/DependencyTrack/dependency-track/pull/6426) | Surface the server release version in the OpenAPI spec (`x-server-version` + title) | 🟡 Open |
+| [#6426](https://github.com/DependencyTrack/dependency-track/pull/6426) | Surface the server release version in the OpenAPI spec (`x-server-version` + title) | ✅ Merged |
 
 ## <img src="https://github.com/DSpace.png?size=48" width="24" align="top"/> DSpace — `DSpace/DSpace`
 Open-source repository platform for digital archives, libraries and institutional content (Java).
