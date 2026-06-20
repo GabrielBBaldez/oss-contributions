@@ -15,9 +15,9 @@ _Last updated: 2026-06-16_
 | Status | Count |
 |--------|-------|
 | ✅ Merged | 21 |
-| 🟡 Open (in review) | 14 |
+| 🟡 Open (in review) | 15 |
 
-Projects: **Apache SeaTunnel**, **Apache Iceberg**, **Delta Lake**, **Crowdin**, **Meilisearch**, **OpenTelemetry (CNCF)**, **WSO2 Identity Server**, **OWASP Dependency-Track**, **DSpace**, **Vault-Web**, **Hermes**, **Selenide**.
+Projects: **Apache SeaTunnel**, **Apache Iceberg**, **Delta Lake**, **Crowdin**, **Meilisearch**, **OpenTelemetry (CNCF)**, **WSO2 Identity Server**, **OWASP Dependency-Track**, **DSpace**, **Vault-Web**, **Hermes**, **Selenide**, **Karate**.
 
 ---
 
@@ -145,3 +145,10 @@ Concise UI testing framework for Java (wraps Selenium WebDriver).
 | PR | Description | Status |
 |----|-------------|--------|
 | [#3350](https://github.com/selenide/selenide/pull/3350) | Appium: `element()` / `elements()` aliases so Kotlin page objects avoid backtick-escaping `$` | 🟡 Open |
+
+## <img src="https://github.com/karatelabs.png?size=48" width="24" align="top"/> Karate — `karatelabs/karate`
+API test-automation framework (BDD-style, Java). v2 engine bug fix.
+
+| PR | Description | Status |
+|----|-------------|--------|
+| [#2935](https://github.com/karatelabs/karate/pull/2935) | Fix Scenario Outline rows freezing to row 1's values when a Background combines `callSingle` + `call read` (Suite-cache scope leak) | 🟡 Open |
