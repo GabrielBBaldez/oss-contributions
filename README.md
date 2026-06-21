@@ -15,7 +15,7 @@ _Last updated: 2026-06-16_
 | Status | Count |
 |--------|-------|
 | ✅ Merged | 21 |
-| 🟡 Open (in review) | 15 |
+| 🟡 Open (in review) | 16 |
 
 Projects: **Apache SeaTunnel**, **Apache Iceberg**, **Delta Lake**, **Crowdin**, **Meilisearch**, **OpenTelemetry (CNCF)**, **WSO2 Identity Server**, **OWASP Dependency-Track**, **DSpace**, **Vault-Web**, **Hermes**, **Selenide**, **Karate**.
 
@@ -87,6 +87,7 @@ Android observability instrumentation.
 | [#79](https://github.com/Vault-Web/cloud-page/pull/79) | Per-user trash (soft delete) with scheduled cleanup | ✅ Merged |
 | [#81](https://github.com/Vault-Web/cloud-page/pull/81) | Configurable rate limiting (per-user / per-IP) for file operations | ✅ Merged |
 | [#82](https://github.com/Vault-Web/cloud-page/pull/82) | Sort folder content by size and last-modified (not only name) | ✅ Merged |
+| [#84](https://github.com/Vault-Web/cloud-page/pull/84) | Metadata filters (type / MIME / size / date) and sort controls for folder search | 🟡 Open |
 
 **`Vault-Web/vault-web`** (Angular frontend):
 
