@@ -8,16 +8,16 @@ A running log of my open-source pull requests — across data infrastructure, de
 
 Every entry links to the actual pull request, and the list grows as I open new ones.
 
-_Last updated: 2026-06-16_
+_Last updated: 2026-06-22_
 
 ## Summary
 
 | Status | Count |
 |--------|-------|
-| ✅ Merged | 21 |
+| ✅ Merged | 22 |
 | 🟡 Open (in review) | 16 |
 
-Projects: **Apache SeaTunnel**, **Apache Iceberg**, **Delta Lake**, **Crowdin**, **Meilisearch**, **OpenTelemetry (CNCF)**, **WSO2 Identity Server**, **OWASP Dependency-Track**, **DSpace**, **Vault-Web**, **Hermes**, **Selenide**, **Karate**.
+Projects: **Apache SeaTunnel**, **Apache Iceberg**, **Delta Lake**, **Crowdin**, **Meilisearch**, **OpenTelemetry (CNCF)**, **WSO2 Identity Server**, **OWASP Dependency-Track**, **DSpace**, **Vault-Web**, **Hermes**, **Selenide**, **Karate**, **JabRef**.
 
 ---
 
@@ -66,7 +66,6 @@ Localization platform — Java SDK and CLI.
 | PR | Description | Status |
 |----|-------------|--------|
 | [#1032](https://github.com/crowdin/crowdin-cli/pull/1032) | Respect ignore patterns with language placeholders on `upload translations` | ✅ Merged |
-| [#1033](https://github.com/crowdin/crowdin-cli/pull/1033) | Clear message instead of a stack trace on unsupported Java versions | 🟡 Open |
 
 ## <img src="https://github.com/open-telemetry.png?size=48" width="24" align="top"/> OpenTelemetry — `open-telemetry/opentelemetry-android` (CNCF)
 Android observability instrumentation.
@@ -87,7 +86,7 @@ Android observability instrumentation.
 | [#79](https://github.com/Vault-Web/cloud-page/pull/79) | Per-user trash (soft delete) with scheduled cleanup | ✅ Merged |
 | [#81](https://github.com/Vault-Web/cloud-page/pull/81) | Configurable rate limiting (per-user / per-IP) for file operations | ✅ Merged |
 | [#82](https://github.com/Vault-Web/cloud-page/pull/82) | Sort folder content by size and last-modified (not only name) | ✅ Merged |
-| [#84](https://github.com/Vault-Web/cloud-page/pull/84) | Metadata filters (type / MIME / size / date) and sort controls for folder search | 🟡 Open |
+| [#84](https://github.com/Vault-Web/cloud-page/pull/84) | Metadata filters (type / MIME / size / date) and sort controls for folder search | ✅ Merged |
 
 **`Vault-Web/vault-web`** (Angular frontend):
 
@@ -97,6 +96,12 @@ Android observability instrumentation.
 | [#238](https://github.com/Vault-Web/vault-web/pull/238) | Trash UI for the cloud view, consuming the soft-delete endpoints (maintainer-invited) | ✅ Merged |
 | [#239](https://github.com/Vault-Web/vault-web/pull/239) | Redirect to login on expired session (auth / session fix) | ✅ Merged |
 | [#241](https://github.com/Vault-Web/vault-web/pull/241) | Sorting controls for the cloud page (Closes #213) | ✅ Merged |
+
+**`Vault-Web/vault-web`** (Angular frontend, continued):
+
+| PR | Description | Status |
+|----|-------------|--------|
+| [#247](https://github.com/Vault-Web/vault-web/pull/247) | Search box and last-modified column for the cloud page (Closes #212) | 🟡 Open |
 
 **`Vault-Web/auth-api-gateway`** (reactive Spring Cloud Gateway):
 
@@ -153,3 +158,10 @@ API test-automation framework (BDD-style, Java). v2 engine bug fix.
 | PR | Description | Status |
 |----|-------------|--------|
 | [#2935](https://github.com/karatelabs/karate/pull/2935) | Fix Scenario Outline rows freezing to row 1's values when a Background combines `callSingle` + `call read` (Suite-cache scope leak) | 🟡 Open |
+
+## <img src="https://github.com/JabRef.png?size=48" width="24" align="top"/> JabRef — `JabRef/jabref`
+Cross-platform citation and reference management tool (Java / JavaFX).
+
+| PR | Description | Status |
+|----|-------------|--------|
+| [#16040](https://github.com/JabRef/jabref/pull/16040) | Select and focus a newly added entry from the New Entry dialog | 🟡 Open |
