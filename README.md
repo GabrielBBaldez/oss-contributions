@@ -8,16 +8,16 @@ A running log of my open-source pull requests — across data infrastructure, de
 
 Every entry links to the actual pull request, and the list grows as I open new ones.
 
-_Last updated: 2026-06-22_
+_Last updated: 2026-06-23_
 
 ## Summary
 
 | Status | Count |
 |--------|-------|
 | ✅ Merged | 24 |
-| 🟡 Open (in review) | 13 |
+| 🟡 Open (in review) | 14 |
 
-Projects: **Apache SeaTunnel**, **Apache Iceberg**, **Delta Lake**, **Crowdin**, **Meilisearch**, **OpenTelemetry (CNCF)**, **WSO2 Identity Server**, **OWASP Dependency-Track**, **DSpace**, **Vault-Web**, **Hermes**, **Selenide**, **Karate**.
+Projects: **Apache SeaTunnel**, **Apache Iceberg**, **Delta Lake**, **Crowdin**, **Meilisearch**, **OpenTelemetry (CNCF)**, **WSO2 Identity Server**, **OWASP Dependency-Track**, **DSpace**, **Vault-Web**, **Hermes**, **Selenide**, **Karate**, **StreamsHub**.
 
 ---
 
@@ -158,3 +158,10 @@ API test-automation framework (BDD-style, Java). v2 engine bug fix.
 | PR | Description | Status |
 |----|-------------|--------|
 | [#2935](https://github.com/karatelabs/karate/pull/2935) | Fix Scenario Outline rows freezing to row 1's values when a Background combines `callSingle` + `call read` (Suite-cache scope leak) | ✅ Merged (cherry-picked to `main`, authorship preserved) |
+
+## <img src="https://github.com/streamshub.png?size=48" width="24" align="top"/> StreamsHub Console — `streamshub/console`
+Web console for Apache Kafka (Strimzi ecosystem) — Quarkus API + Java operator.
+
+| PR | Description | Status |
+|----|-------------|--------|
+| [#2677](https://github.com/streamshub/console/pull/2677) | Adjust the console startup probe for CPU-constrained scenarios (avoid crash looping) | 🟡 Open |
