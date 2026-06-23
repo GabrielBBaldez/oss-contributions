@@ -15,9 +15,9 @@ _Last updated: 2026-06-23_
 | Status | Count |
 |--------|-------|
 | ✅ Merged | 24 |
-| 🟡 Open (in review) | 14 |
+| 🟡 Open (in review) | 15 |
 
-Projects: **Apache SeaTunnel**, **Apache Iceberg**, **Delta Lake**, **Crowdin**, **Meilisearch**, **OpenTelemetry (CNCF)**, **WSO2 Identity Server**, **OWASP Dependency-Track**, **DSpace**, **Vault-Web**, **Hermes**, **Selenide**, **Karate**, **StreamsHub**.
+Projects: **Apache SeaTunnel**, **Apache Iceberg**, **Delta Lake**, **Crowdin**, **Meilisearch**, **OpenTelemetry (CNCF)**, **WSO2 Identity Server**, **OWASP Dependency-Track**, **DSpace**, **Vault-Web**, **Hermes**, **Selenide**, **Karate**, **StreamsHub**, **Apache Fluss**.
 
 ---
 
@@ -165,3 +165,10 @@ Web console for Apache Kafka (Strimzi ecosystem) — Quarkus API + Java operator
 | PR | Description | Status |
 |----|-------------|--------|
 | [#2677](https://github.com/streamshub/console/pull/2677) | Adjust the console startup probe for CPU-constrained scenarios (avoid crash looping) | 🟡 Open |
+
+## <img src="https://github.com/apache.png?size=48" width="24" align="top"/> Apache Fluss — `apache/fluss`
+Streaming storage for real-time analytics (Apache incubating). Lakehouse / Iceberg integration docs.
+
+| PR | Description | Status |
+|----|-------------|--------|
+| [#3515](https://github.com/apache/fluss/pull/3515) | Apache Polaris (Iceberg REST catalog) quick-start guide for Fluss lakehouse tiering | 🟡 Open |
