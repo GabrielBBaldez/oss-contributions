@@ -15,7 +15,7 @@ _Last updated: 2026-06-23_
 | Status | Count |
 |--------|-------|
 | ✅ Merged | 24 |
-| 🟡 Open (in review) | 15 |
+| 🟡 Open (in review) | 16 |
 
 Projects: **Apache SeaTunnel**, **Apache Iceberg**, **Delta Lake**, **Crowdin**, **Meilisearch**, **OpenTelemetry (CNCF)**, **WSO2 Identity Server**, **OWASP Dependency-Track**, **DSpace**, **Vault-Web**, **Hermes**, **Selenide**, **Karate**, **StreamsHub**, **Apache Fluss**.
 
@@ -172,3 +172,4 @@ Streaming storage for real-time analytics (Apache incubating). Lakehouse / Icebe
 | PR | Description | Status |
 |----|-------------|--------|
 | [#3515](https://github.com/apache/fluss/pull/3515) | Apache Polaris (Iceberg REST catalog) quick-start guide for Fluss lakehouse tiering | 🟡 Open |
+| [#3517](https://github.com/apache/fluss/pull/3517) | Fix docs website build on Windows (version-replace plugin path separator) | 🟡 Open |
