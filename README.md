@@ -8,16 +8,16 @@ A running log of my open-source pull requests — across data infrastructure, de
 
 Every entry links to the actual pull request, and the list grows as I open new ones.
 
-_Last updated: 2026-06-23_
+_Last updated: 2026-06-24_
 
 ## Summary
 
 | Status | Count |
 |--------|-------|
 | ✅ Merged | 25 |
-| 🟡 Open (in review) | 15 |
+| 🟡 Open (in review) | 16 |
 
-Projects: **Apache SeaTunnel**, **Apache Iceberg**, **Delta Lake**, **Crowdin**, **Meilisearch**, **OpenTelemetry (CNCF)**, **WSO2 Identity Server**, **OWASP Dependency-Track**, **DSpace**, **Vault-Web**, **Hermes**, **Selenide**, **Karate**, **StreamsHub**, **Apache Fluss**.
+Projects: **Apache SeaTunnel**, **Apache Iceberg**, **Delta Lake**, **Crowdin**, **Meilisearch**, **OpenTelemetry (CNCF)**, **WSO2 Identity Server**, **OWASP Dependency-Track**, **DSpace**, **Vault-Web**, **Hermes**, **Selenide**, **Karate**, **StreamsHub**, **Apache Fluss**, **OpenRewrite**.
 
 ---
 
@@ -173,3 +173,10 @@ Streaming storage for real-time analytics (Apache incubating). Lakehouse / Icebe
 |----|-------------|--------|
 | [#3515](https://github.com/apache/fluss/pull/3515) | Apache Polaris (Iceberg REST catalog) quick-start guide for Fluss lakehouse tiering | 🟡 Open |
 | [#3517](https://github.com/apache/fluss/pull/3517) | Fix docs website build on Windows (version-replace plugin path separator) | 🟡 Open |
+
+## <img src="https://github.com/openrewrite.png?size=48" width="24" align="top"/> OpenRewrite — `openrewrite/rewrite-spring`
+Automated source-refactoring recipes for the Spring ecosystem (OpenRewrite / Moderne).
+
+| PR | Description | Status |
+|----|-------------|--------|
+| [#1051](https://github.com/openrewrite/rewrite-spring/pull/1051) | Recipe to relocate Spring Boot 4.0 web server classes (Tomcat/Jetty/contexts) to their new modular packages | 🟡 Open |
