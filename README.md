@@ -14,8 +14,8 @@ _Last updated: 2026-06-24_
 
 | Status | Count |
 |--------|-------|
-| ✅ Merged | 25 |
-| 🟡 Open (in review) | 16 |
+| ✅ Merged | 26 |
+| 🟡 Open (in review) | 15 |
 
 Projects: **Apache SeaTunnel**, **Apache Iceberg**, **Delta Lake**, **Crowdin**, **Meilisearch**, **OpenTelemetry (CNCF)**, **WSO2 Identity Server**, **OWASP Dependency-Track**, **DSpace**, **Vault-Web**, **Hermes**, **Selenide**, **Karate**, **StreamsHub**, **Apache Fluss**, **OpenRewrite**.
 
@@ -101,7 +101,7 @@ Android observability instrumentation.
 
 | PR | Description | Status |
 |----|-------------|--------|
-| [#247](https://github.com/Vault-Web/vault-web/pull/247) | Search box and last-modified column for the cloud page (Closes #212) | 🟡 Open |
+| [#247](https://github.com/Vault-Web/vault-web/pull/247) | Search box and last-modified column for the cloud page (Closes #212) | ✅ Merged |
 
 **`Vault-Web/auth-api-gateway`** (reactive Spring Cloud Gateway):
 
