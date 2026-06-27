@@ -8,14 +8,14 @@ A running log of my open-source pull requests — across data infrastructure, de
 
 Every entry links to the actual pull request, and the list grows as I open new ones.
 
-_Last updated: 2026-06-24_
+_Last updated: 2026-06-26_
 
 ## Summary
 
 | Status | Count |
 |--------|-------|
-| ✅ Merged | 26 |
-| 🟡 Open (in review) | 15 |
+| ✅ Merged | 27 |
+| 🟡 Open (in review) | 16 |
 
 Projects: **Apache SeaTunnel**, **Apache Iceberg**, **Delta Lake**, **Crowdin**, **Meilisearch**, **OpenTelemetry (CNCF)**, **WSO2 Identity Server**, **OWASP Dependency-Track**, **DSpace**, **Vault-Web**, **Hermes**, **Selenide**, **Karate**, **StreamsHub**, **Apache Fluss**, **OpenRewrite**.
 
@@ -87,6 +87,7 @@ Android observability instrumentation.
 | [#81](https://github.com/Vault-Web/cloud-page/pull/81) | Configurable rate limiting (per-user / per-IP) for file operations | ✅ Merged |
 | [#82](https://github.com/Vault-Web/cloud-page/pull/82) | Sort folder content by size and last-modified (not only name) | ✅ Merged |
 | [#84](https://github.com/Vault-Web/cloud-page/pull/84) | Metadata filters (type / MIME / size / date) and sort controls for folder search | ✅ Merged |
+| [#88](https://github.com/Vault-Web/cloud-page/pull/88) | Fix path traversal when creating a folder (validate the resolved name) | ✅ Merged |
 
 **`Vault-Web/vault-web`** (Angular frontend):
 
@@ -108,6 +109,12 @@ Android observability instrumentation.
 | PR | Description | Status |
 |----|-------------|--------|
 | [#39](https://github.com/Vault-Web/auth-api-gateway/pull/39) | Integration tests for the auth endpoints (+ fix validation errors returning 500 instead of 400) | 🟡 Open |
+
+**`Vault-Web/password-manager`** (self-hosted password manager):
+
+| PR | Description | Status |
+|----|-------------|--------|
+| [#87](https://github.com/Vault-Web/password-manager/pull/87) | Exclude master / entry passwords from DTO `toString()` to prevent log leaks (security) | 🟡 Open |
 
 ## <img src="https://github.com/outsourc-e.png?size=48" width="24" align="top"/> Hermes — `outsourc-e/hermes-workspace`
 Web workspace for the Hermes agent.
