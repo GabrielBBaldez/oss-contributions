@@ -8,16 +8,16 @@ A running log of my open-source pull requests — across data infrastructure, de
 
 Every entry links to the actual pull request, and the list grows as I open new ones.
 
-_Last updated: 2026-06-26_
+_Last updated: 2026-06-28_
 
 ## Summary
 
 | Status | Count |
 |--------|-------|
 | ✅ Merged | 27 |
-| 🟡 Open (in review) | 16 |
+| 🟡 Open (in review) | 17 |
 
-Projects: **Apache SeaTunnel**, **Apache Iceberg**, **Delta Lake**, **Crowdin**, **Meilisearch**, **OpenTelemetry (CNCF)**, **WSO2 Identity Server**, **OWASP Dependency-Track**, **DSpace**, **Vault-Web**, **Hermes**, **Selenide**, **Karate**, **StreamsHub**, **Apache Fluss**, **OpenRewrite**.
+Projects: **Apache SeaTunnel**, **Apache Iceberg**, **Delta Lake**, **Crowdin**, **Meilisearch**, **OpenTelemetry (CNCF)**, **WSO2 Identity Server**, **OWASP Dependency-Track**, **DSpace**, **Vault-Web**, **Hermes**, **Selenide**, **Karate**, **StreamsHub**, **Apache Fluss**, **OpenRewrite**, **Micronaut SourceGen**.
 
 ---
 
@@ -44,6 +44,13 @@ Open table format and lakehouse storage layer (Linux Foundation project). Contri
 | PR | Description | Status |
 |----|-------------|--------|
 | [#7055](https://github.com/delta-io/delta/pull/7055) | Kernel: typed exceptions for out-of-range snapshot version loads (so connectors catch the specific case instead of string-matching the message) | 🟡 Open |
+
+## <img src="https://github.com/micronaut-projects.png?size=48" width="24" align="top"/> Micronaut SourceGen — `micronaut-projects/micronaut-sourcegen`
+Source-code generation library for the Micronaut Framework (Java / Kotlin / bytecode backends).
+
+| PR | Description | Status |
+|----|-------------|--------|
+| [#454](https://github.com/micronaut-projects/micronaut-sourcegen/pull/454) | Annotation-class generation for the Kotlin and bytecode generators (parity with the Java backend) | 🟡 Open |
 
 ## <img src="https://github.com/crowdin.png?size=48" width="24" align="top"/> Crowdin
 Localization platform — Java SDK and CLI.
