@@ -15,9 +15,9 @@ _Last updated: 2026-06-28_
 | Status | Count |
 |--------|-------|
 | ✅ Merged | 27 |
-| 🟡 Open (in review) | 17 |
+| 🟡 Open (in review) | 18 |
 
-Projects: **Apache SeaTunnel**, **Apache Iceberg**, **Delta Lake**, **Crowdin**, **Meilisearch**, **OpenTelemetry (CNCF)**, **WSO2 Identity Server**, **OWASP Dependency-Track**, **DSpace**, **Vault-Web**, **Hermes**, **Selenide**, **Karate**, **StreamsHub**, **Apache Fluss**, **OpenRewrite**, **Micronaut SourceGen**.
+Projects: **Apache SeaTunnel**, **Apache Iceberg**, **Delta Lake**, **Crowdin**, **Meilisearch**, **OpenTelemetry (CNCF)**, **WSO2 Identity Server**, **OWASP Dependency-Track**, **DSpace**, **Vault-Web**, **Hermes**, **Selenide**, **Karate**, **StreamsHub**, **Apache Fluss**, **OpenRewrite**, **Micronaut SourceGen**, **Apache GeaFlow**.
 
 ---
 
@@ -30,6 +30,13 @@ Distributed data integration platform (Apache TLP).
 | [#11030](https://github.com/apache/seatunnel/pull/11030) | Zendesk source connector fixes | 🟡 Open — approved by the PMC Chair |
 | [#11028](https://github.com/apache/seatunnel/pull/11028) | Shopify source connector fixes | 🟡 Open — approved |
 | [#11057](https://github.com/apache/seatunnel/pull/11057) | MySQL-CDC: snapshot-only startup mode | 🟡 Open |
+
+## <img src="https://github.com/apache.png?size=48" width="24" align="top"/> Apache GeaFlow — `apache/geaflow`
+Streaming graph computing engine (Apache, originally Ant Group / TuGraph).
+
+| PR | Description | Status |
+|----|-------------|--------|
+| [#810](https://github.com/apache/geaflow/pull/810) | New ClickHouse connector — batched sink (~30x faster than row-by-row) + partitioned source, verified with Testcontainers | 🟡 Open |
 
 ## <img src="https://github.com/apache.png?size=48" width="24" align="top"/> Apache Iceberg — `apache/iceberg`
 Leading open table format for data lakehouses (Apache TLP).
