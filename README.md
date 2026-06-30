@@ -8,13 +8,13 @@ A running log of my open-source pull requests — across data infrastructure, de
 
 Every entry links to the actual pull request, and the list grows as I open new ones.
 
-_Last updated: 2026-06-28_
+_Last updated: 2026-06-30_
 
 ## Summary
 
 | Status | Count |
 |--------|-------|
-| ✅ Merged | 27 |
+| ✅ Merged | 28 |
 | 🟡 Open (in review) | 18 |
 
 Projects: **Apache SeaTunnel**, **Apache Iceberg**, **Delta Lake**, **Crowdin**, **Meilisearch**, **OpenTelemetry (CNCF)**, **WSO2 Identity Server**, **OWASP Dependency-Track**, **DSpace**, **Vault-Web**, **Hermes**, **Selenide**, **Karate**, **StreamsHub**, **Apache Fluss**, **OpenRewrite**, **Micronaut SourceGen**, **Apache GeaFlow**.
@@ -128,7 +128,8 @@ Android observability instrumentation.
 
 | PR | Description | Status |
 |----|-------------|--------|
-| [#87](https://github.com/Vault-Web/password-manager/pull/87) | Exclude master / entry passwords from DTO `toString()` to prevent log leaks (security) | 🟡 Open |
+| [#89](https://github.com/Vault-Web/password-manager/pull/89) | Encrypted vault export & import (CSV) — password-protected by default, with interop headers for Bitwarden / KeePass | 🟡 Open |
+| [#87](https://github.com/Vault-Web/password-manager/pull/87) | Exclude master / entry passwords from DTO `toString()` to prevent log leaks (security) | ✅ Merged |
 
 ## <img src="https://github.com/outsourc-e.png?size=48" width="24" align="top"/> Hermes — `outsourc-e/hermes-workspace`
 Web workspace for the Hermes agent.
