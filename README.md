@@ -15,7 +15,7 @@ _Last updated: 2026-06-30_
 | Status | Count |
 |--------|-------|
 | ✅ Merged | 28 |
-| 🟡 Open (in review) | 18 |
+| 🟡 Open (in review) | 19 |
 
 Projects: **Apache SeaTunnel**, **Apache Iceberg**, **Delta Lake**, **Crowdin**, **Meilisearch**, **OpenTelemetry (CNCF)**, **WSO2 Identity Server**, **OWASP Dependency-Track**, **DSpace**, **Vault-Web**, **Hermes**, **Selenide**, **Karate**, **StreamsHub**, **Apache Fluss**, **OpenRewrite**, **Micronaut SourceGen**, **Apache GeaFlow**.
 
@@ -117,6 +117,7 @@ Android observability instrumentation.
 | PR | Description | Status |
 |----|-------------|--------|
 | [#247](https://github.com/Vault-Web/vault-web/pull/247) | Search box and last-modified column for the cloud page (Closes #212) | ✅ Merged |
+| [#274](https://github.com/Vault-Web/vault-web/pull/274) | Folder virus-scan UI — start scan, poll job status, render findings, graceful disabled/rate-limit handling (maintainer-invited, Closes #272) | 🟡 Open |
 
 **`Vault-Web/auth-api-gateway`** (reactive Spring Cloud Gateway):
 
